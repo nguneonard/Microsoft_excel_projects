@@ -6,12 +6,12 @@
 This COVID-19 dashboard provides visualizations and analysis of the death cases, confirmed cases, and recovered cases related to the pandemic. The data used in this dashboard was scraped using Microsoft Excel and various analysis techniques were applied to generate meaningful insights.
 
 ## Table of Contents
-Dataset
-Installation
-Features
-Usage
-Contributing
-License
+- Dataset
+- Installation
+- Features
+- Usage
+- Contributing
+- License
 
 ## Dataset
 The dataset used in this dashboard consists of the following information:
