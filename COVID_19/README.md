@@ -2,6 +2,13 @@
 # COVID-19 Dashboard
 This COVID-19 dashboard provides visualizations and analysis of the death cases, confirmed cases, and recovered cases related to the pandemic. The data used in this dashboard was scraped using Microsoft Excel and various analysis techniques were applied to generate meaningful insights.
 
+# Bike Sharing Data Analysis with SQL Server
+<p align="center">
+  <img src="https://github.com/nguneonard/SQL_Projects/blob/main/Bike%20Sharing/Bicycle-sharing_systems.jpg"  title="hover text", width="1000" height="600">
+</p>
+
+
+
 ## Table of Contents
 Dataset
 Installation
