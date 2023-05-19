@@ -1,7 +1,7 @@
 
 # COVID-19 Dashboard
 <p align="center">
-  <img src="https://github.com/nguneonard/Microsoft_excel_projects/blob/main/COVID_19/covid.png"  title="hover text", width="1000" height="600">
+  <img src="https://github.com/nguneonard/Microsoft_excel_projects/blob/main/COVID_19/covid.png"  title="hover text", width="800" height="800">
 </p>
 
 This COVID-19 dashboard provides visualizations and analysis of the death cases, confirmed cases, and recovered cases related to the pandemic. The data used in this dashboard was scraped using Microsoft Excel and various analysis techniques were applied to generate meaningful insights.
