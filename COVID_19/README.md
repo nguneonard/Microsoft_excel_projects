@@ -1,5 +1,4 @@
 
-# COVID-19 Dashboard
 <p align="center">
   <img src="https://github.com/nguneonard/Microsoft_excel_projects/blob/main/COVID_19/covid.png"  title="hover text", width="800" height="800">
 </p>
